@@ -20,7 +20,7 @@
 }
 
 .logo{
-    background-image: url('/amazon_logo.png');
+    background-image: url('/Assests/amazon_logo.png');
     height: 50px;
     width: 100%;
     background-size:cover;
@@ -116,7 +116,7 @@
 .usa{
     width: 21.5px;
     height: 16.5px;
-    background-image: url(/american-flag-o.avif);
+    background-image: url("/Assests/american-flag-o.avif");
     background-size:cover;
     margin-right: 2px;
 }
@@ -198,7 +198,7 @@ span{
 
 /* hero-section */
 .hero-section{
-    background-image: url(/hero_image.jpg);
+    background-image: url("/Assests/hero_image.jpg");
     height: 380px;
     background-size: cover;
     display: flex;
@@ -298,7 +298,7 @@ ul a{
 }
 
 .logo{
-    background-image: url('/amazon_logo.png');
+    background-image: url("/Assests/amazon_logo.png");
     width: 100px;
     height: 50px;
     background-size: cover;
